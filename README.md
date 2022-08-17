@@ -44,6 +44,13 @@ I’m interested in Web Technologies, Javascript, and Cloud Computing
 
 <a href="https://github.com/masab-m" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masab-m&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<!-- retro visitor counter -->  
+<p align="center" >   
+  Visitor's count
+  <br></br>
+  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
+</p>
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/masabmehmood"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
