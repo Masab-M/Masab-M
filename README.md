@@ -50,7 +50,3 @@ I’m interested in Web Technologies, Javascript, and Cloud Computing
   <br></br>
   <img src="https://profile-counter.glitch.me/Masab-M/count.svg" />  
 </p>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/masabmehmood"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
